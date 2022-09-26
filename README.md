@@ -3,7 +3,8 @@
 ## I'm a Developer, Student, and Tech wannabe!!
 
 - 🌱 I’m currently learning React!!
-- - ⚡ Fun fact: I'm a Ex Athlete 
+- 😄 I speak 3 languages ( Portuguese(Br), English, Spanish)
+- - ⚡ Fun fact: I'm Bachelor of Law && Ex Athlete 
 
 ### Languages i know and use.
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
