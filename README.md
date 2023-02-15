@@ -97,7 +97,6 @@
       <a href="https://kernel.org/" target="blank">
          <img src="https://img.shields.io/badge/-linux-blue?style=for-the-badge&color=fed24e" /> 
       </a>
-##
 
 <!--
 <details>
