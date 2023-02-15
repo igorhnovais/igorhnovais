@@ -72,10 +72,30 @@
 </div>
 
 ### Tools i know and use.
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<a href="https://code.visualstudio.com/" target="blank">
+         <img align="center" alt="vscode" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+         <a href="https://git-scm.com/" target="blank">
+         <img align="center" alt="git" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+      </a>
+    <a href="https://www.mysql.com/" target="blank">
+         <img align="center" alt="mysql" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      </a>
+      <a href="https://kernel.org/" target="blank">
+         <img align="center" alt="linux" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      </a>
+               </br>
+      <a href="https://code.visualstudio.com/" target="blank">
+         <img src="https://img.shields.io/badge/-vscode-blue?style=for-the-badge&color=0176c6" /> 
+      </a>
+      <a href="https://git-scm.com/" target="blank">
+         <img src="https://img.shields.io/badge/-git-blue?style=for-the-badge&color=f35034" /> 
+      </a>
+      <a href="https://www.mysql.com/" target="blank">
+         <img src="https://img.shields.io/badge/-mysql-blue?style=for-the-badge&color=00618a" /> 
+      </a>
+      <a href="https://kernel.org/" target="blank">
+         <img src="https://img.shields.io/badge/-linux-blue?style=for-the-badge&color=fed24e" /> 
+      </a>
 
 <!--
 <details>
