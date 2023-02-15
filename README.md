@@ -17,11 +17,7 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" target="blank">
       <img align="center" height="60" width="80" alt="iconJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"       />
     </a>
-<br/>
-   
-    <a href="http://www.python.org/" target="blank">
-         <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&color=f1d356" /> 
-      </a>
+    <br/>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="blank">
         <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&color=d84a2e" /> 
       </a>
