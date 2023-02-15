@@ -96,7 +96,11 @@
       <a href="https://kernel.org/" target="blank">
          <img src="https://img.shields.io/badge/-linux-blue?style=for-the-badge&color=fed24e" /> 
       </a>
+##
 
+<div>
+  <img align="center" src="https://github.com/daniel-bernardino747/igorhnovais/blob/output/github-contribution-grid-snake.svg" alt="snake-animation"/>
+</div>
 <!--
 <details>
   <summary>:zap: GitHub Stats</summary>
