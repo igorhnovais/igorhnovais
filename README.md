@@ -71,6 +71,7 @@
       </a>
 </div>
 
+
 ### Tools i know and use.
 <a href="https://code.visualstudio.com/" target="blank">
          <img align="center" alt="vscode" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -98,9 +99,6 @@
       </a>
 ##
 
-<div>
-  <img align="center" src="https://github.com/igorhnovais/igorhnovais/blob/output/github-contribution-grid-snake.svg" alt="snake-animation"/>
-</div>
 <!--
 <details>
   <summary>:zap: GitHub Stats</summary>
