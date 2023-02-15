@@ -99,7 +99,7 @@
 ##
 
 <div>
-  <img align="center" src="https://github.com/daniel-bernardino747/igorhnovais/blob/output/github-contribution-grid-snake.svg" alt="snake-animation"/>
+  <img align="center" src="https://github.com/igorhnovais/igorhnovais/blob/output/github-contribution-grid-snake.svg" alt="snake-animation"/>
 </div>
 <!--
 <details>
