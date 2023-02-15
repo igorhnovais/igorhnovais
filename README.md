@@ -19,7 +19,10 @@
     </a>
 <br/>
    
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="blank">
+    <a href="http://www.python.org/" target="blank">
+         <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&color=f1d356" /> 
+      </a>
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="blank">
         <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&color=d84a2e" /> 
       </a>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank">
