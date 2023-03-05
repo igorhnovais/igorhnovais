@@ -12,7 +12,7 @@
       <img align="center" height="45" width="70" alt="iconHTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank">
-      <img align="center" height="60" width="80" alt="iconCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+      <img align="center" height="45" width="70" alt="iconCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" target="blank">
       <img align="center" height="60" width="80" alt="iconJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"       />
