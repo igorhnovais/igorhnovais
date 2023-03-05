@@ -9,7 +9,7 @@
 ### Languages i know and use.
 <div>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="blank">
-      <img align="center" height="60" width="80" alt="iconHTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+      <img align="center" height="50" width="70" alt="iconHTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank">
       <img align="center" height="60" width="80" alt="iconCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
