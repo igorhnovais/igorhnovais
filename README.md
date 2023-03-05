@@ -46,7 +46,7 @@
         <img height="30" width="70" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&color=3173d9" /> 
       </a>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" target="blank">
-        <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&color=e9d54c" /> 
+        <img height="30" width="70" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&color=e9d54c" /> 
       </a>
     <a href="http://pt-br.reactjs.org/" target="blank">
          <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&color=5ed2f2" /> 
