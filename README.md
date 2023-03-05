@@ -15,7 +15,7 @@
       <img align="center" height="45" width="70" alt="iconCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" target="blank">
-      <img align="center" height="60" width="80" alt="iconJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"       />
+      <img align="center" height="45" width="80" alt="iconJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"       />
     </a>
     <a href="http://reactjs.org/" target="blank">
          <img align="center" alt="iconReact" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
