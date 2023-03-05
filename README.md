@@ -40,7 +40,7 @@
       </a>
                                         <br/>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="blank">
-        <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&color=d84a2e" /> 
+        <img height="45" width="70" src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&color=d84a2e" /> 
       </a>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank">
         <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&color=3173d9" /> 
