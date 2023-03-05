@@ -43,7 +43,7 @@
         <img height="30" width="70" src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&color=d84a2e" /> 
       </a>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank">
-        <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&color=3173d9" /> 
+        <img height="30" width="70" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&color=3173d9" /> 
       </a>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" target="blank">
         <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&color=e9d54c" /> 
