@@ -17,6 +17,9 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" target="blank">
       <img align="center" height="45" width="80" alt="iconJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"       />
     </a>
+    <a href="" target="blank">
+      <img align="center" height="45" width="80" alt="iconJS" src="icon_sql_256_30046(1).png"       />
+    </a>
                                         <br/>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="blank">
         <img height="30" width="70" src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&color=d84a2e" /> 
@@ -26,6 +29,9 @@
       </a>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" target="blank">
         <img height="30" width="80" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&color=e9d54c" /> 
+      </a>
+      <a href="" target="blank">
+        <img height="30" width="80" src="https://img.shields.io/badge/-SQL-yellow?style=for-the-badge&color=purple" /> 
       </a>
     
 </div>
