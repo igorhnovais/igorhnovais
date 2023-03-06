@@ -17,7 +17,30 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" target="blank">
       <img align="center" height="45" width="80" alt="iconJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"       />
     </a>
-    <a href="http://reactjs.org/" target="blank">
+                                        <br/>
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="blank">
+        <img height="30" width="70" src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&color=d84a2e" /> 
+      </a>
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank">
+        <img height="30" width="70" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&color=3173d9" /> 
+      </a>
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" target="blank">
+        <img height="30" width="80" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&color=e9d54c" /> 
+      </a>
+    
+</div>
+
+
+### Tools i know and use.
+<a href="https://code.visualstudio.com/" target="blank">
+         <img align="center" alt="vscode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+         <a href="https://git-scm.com/" target="blank">
+         <img align="center" alt="git" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+      </a>
+      <a href="https://kernel.org/" target="blank">
+         <img align="center" alt="linux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      </a>
+      <a href="http://reactjs.org/" target="blank">
          <img align="center" alt="iconReact" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       </a>
       <a href="https://nodejs.org/en/" target="blank">
@@ -38,17 +61,17 @@
       <a href="https://www.postgresql.org/" target="blank">
          <img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
       </a>
-                                        <br/>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="blank">
-        <img height="30" width="70" src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&color=d84a2e" /> 
+               </br>
+      <a href="https://code.visualstudio.com/" target="blank">
+         <img height="30" width="80" src="https://img.shields.io/badge/-vscode-blue?style=for-the-badge&color=0176c6" /> 
       </a>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank">
-        <img height="30" width="70" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&color=3173d9" /> 
+      <a href="https://git-scm.com/" target="blank">
+         <img height="30" width="80" src="https://img.shields.io/badge/-git-blue?style=for-the-badge&color=f35034" /> 
       </a>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" target="blank">
-        <img height="30" width="80" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&color=e9d54c" /> 
+      <a href="https://kernel.org/" target="blank">
+         <img height="30" width="80" src="https://img.shields.io/badge/-linux-blue?style=for-the-badge&color=fed24e" /> 
       </a>
-    <a href="http://pt-br.reactjs.org/" target="blank">
+      <a href="http://pt-br.reactjs.org/" target="blank">
          <img height="30" width="80" src="https://img.shields.io/badge/-React-blue?style=for-the-badge&color=5ed2f2" /> 
       </a>
       <a href="https://nodejs.org/en/" target="blank">
@@ -68,28 +91,6 @@
       </a>
       <a href="https://www.postgresql.org/" target="blank">
          <img height="30" width="80" src="https://img.shields.io/badge/-postgresql-blue?style=for-the-badge&color=336791" /> 
-      </a>
-</div>
-
-
-### Tools i know and use.
-<a href="https://code.visualstudio.com/" target="blank">
-         <img align="center" alt="vscode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-         <a href="https://git-scm.com/" target="blank">
-         <img align="center" alt="git" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-      </a>
-      <a href="https://kernel.org/" target="blank">
-         <img align="center" alt="linux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-      </a>
-               </br>
-      <a href="https://code.visualstudio.com/" target="blank">
-         <img height="30" width="80" src="https://img.shields.io/badge/-vscode-blue?style=for-the-badge&color=0176c6" /> 
-      </a>
-      <a href="https://git-scm.com/" target="blank">
-         <img height="30" width="80" src="https://img.shields.io/badge/-git-blue?style=for-the-badge&color=f35034" /> 
-      </a>
-      <a href="https://kernel.org/" target="blank">
-         <img height="30" width="80" src="https://img.shields.io/badge/-linux-blue?style=for-the-badge&color=fed24e" /> 
       </a>
 
 <!--
