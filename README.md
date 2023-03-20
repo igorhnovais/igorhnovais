@@ -43,7 +43,7 @@
 </div>
 
 
-### Tools i know and use. -- JEST
+### Tools i know and use.
 <a href="https://code.visualstudio.com/" target="blank">
          <img align="center" alt="vscode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
          <!-- <a href="https://git-scm.com/" target="blank">
@@ -115,6 +115,7 @@
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img alt="jest" src="https://img.shields.io/badge/-Jest-db7092?style=flat-square&logo=jest&logoColor=white" />
+<img alt="Eslint" src="https://img.shields.io/badge/Eslint-800080?style=flat&logo=Eslint&logoColor=white" />
 
 <!--
 <details>
