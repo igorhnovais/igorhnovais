@@ -20,6 +20,9 @@
     <a href="" target="blank">
       <img align="center" height="45" width="80" alt="iconJS" src="icon_sql_256_30046(1).png"       />
     </a>
+    <a href="" target="blank">
+      <img align="center" height="45" width="80" alt="iconJS" src="database.png"       />
+    </a>
                                         <br/>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="blank">
         <img height="30" width="70" src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&color=d84a2e" /> 
@@ -32,6 +35,9 @@
       </a>
       <a href="" target="blank">
         <img height="30" width="80" src="https://img.shields.io/badge/-SQL-yellow?style=for-the-badge&color=purple" /> 
+      </a>
+      <a href="" target="blank">
+        <img height="30" width="80" src="https://img.shields.io/badge/-NOSQL-yellow?style=for-the-badge&color=blue" /> 
       </a>
     
 </div>
