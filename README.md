@@ -46,9 +46,9 @@
 ### Tools i know and use. -- JEST
 <a href="https://code.visualstudio.com/" target="blank">
          <img align="center" alt="vscode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-         <a href="https://git-scm.com/" target="blank">
+         <!-- <a href="https://git-scm.com/" target="blank">
          <img align="center" alt="git" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-      </a>
+      </a> -->
       <a href="https://kernel.org/" target="blank">
          <img align="center" alt="linux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
       </a>
@@ -77,9 +77,9 @@
       <a href="https://code.visualstudio.com/" target="blank">
          <img height="30" width="80" src="https://img.shields.io/badge/-vscode-blue?style=for-the-badge&color=0176c6" /> 
       </a>
-      <a href="https://git-scm.com/" target="blank">
+      <!-- <a href="https://git-scm.com/" target="blank">
          <img height="30" width="80" src="https://img.shields.io/badge/-git-blue?style=for-the-badge&color=f35034" /> 
-      </a>
+      </a> -->
       <a href="https://kernel.org/" target="blank">
          <img height="30" width="80" src="https://img.shields.io/badge/-linux-blue?style=for-the-badge&color=fed24e" /> 
       </a>
@@ -111,6 +111,9 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 
 <!--
 <details>
