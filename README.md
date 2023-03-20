@@ -64,9 +64,9 @@
       <a href="https://expressjs.com/" target="blank">
          <img align="center" alt="express" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
       </a>
-      <a href="https://eslint.org/" target="blank">
+      <!-- <a href="https://eslint.org/" target="blank">
          <img align="center" alt="iconNode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
-      </a>
+      </a> -->
       <a href="https://www.mongodb.com/home" target="blank">
          <img align="center" alt="mongodb" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
       </a>
@@ -95,9 +95,9 @@
       <a href="https://expressjs.com/" target="blank">
          <img height="30" width="80" src="https://img.shields.io/badge/-express-blue?style=for-the-badge&color=fff" /> 
       </a>
-      <a href="https://eslint.org/" target="blank">
+      <!-- <a href="https://eslint.org/" target="blank">
          <img height="30" width="80" src="https://img.shields.io/badge/-Eslint-blue?style=for-the-badge&color=4c63ba" /> 
-      </a>
+      </a> -->
       <a href="https://www.mongodb.com/home" target="blank">
          <img height="30" width="80" src="https://img.shields.io/badge/-mongodb-blue?style=for-the-badge&color=439934" /> 
       </a>
