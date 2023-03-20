@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Student, and Tech wannabe!!
 
-- 🌱 I’m currently learning Aws Docker!!
+- 🌱 I’m currently learning Aws Docker / Angular!!
 - 😄 I speak 3 languages ( Portuguese(Br), English, Spanish)
 - - ⚡ Fun fact: I'm Bachelor of Law && Ex Athlete 
 
