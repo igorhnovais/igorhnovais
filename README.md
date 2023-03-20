@@ -99,6 +99,13 @@
          <img height="30" width="80" src="https://img.shields.io/badge/-postgresql-blue?style=for-the-badge&color=336791" /> 
       </a>
 
+### Another tools i know.
+
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
 <!--
 <details>
   <summary>:zap: GitHub Stats</summary>
