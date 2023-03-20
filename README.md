@@ -99,7 +99,7 @@
          <img height="30" width="80" src="https://img.shields.io/badge/-postgresql-blue?style=for-the-badge&color=336791" /> 
       </a>
 
-### Another tools i know.
+### Other tools i use too.
 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
